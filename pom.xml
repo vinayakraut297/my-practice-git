@@ -6,7 +6,7 @@
 
   <groupId>in.vinayakraut297</groupId>
   <artifactId>my-web-app</artifactId>
-  <version>1.3-SNAPSHOT</version>
+ <version>1.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>my-web-app Maven Webapp</name>
